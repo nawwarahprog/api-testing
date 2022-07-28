@@ -1,0 +1,23 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "Create Sample API Testing using reqres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawwarahprog/api-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawwarahprog/api-testing/issues"
+  },
+  "homepage": "https://github.com/nawwarahprog/api-testing#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
