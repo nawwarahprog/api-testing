@@ -19,7 +19,7 @@ context('UserManage Api automation test',()=> {
             expect(response.status).equal(201)
             expect(response.body.name).equal(user.name)
             expect(response.body.job).equal(user.job)
-            //expect(response.body.data[0].first_name).equal('Michael')
+            
         })
     })
 
